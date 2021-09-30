@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+.cabecalho{
+  background: #FFFFFF;
+  border: 1px solid #365D91;
+}
+.botaosecundario button{
+  border: 2px solid #365D91;
+  box-sizing: border-box;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #365D91;
+  padding: 8px 16px;
+}
+.botaoprimario button{
+  background: #FF6F5E;
+  border-radius: 8px;
+  border-color: #ff6f5e;
+  font-weight:600;
+  font-size: 16px;
+  line-height: 120%;
+  text-align: center;
+  color: #FCF5EF;
+  padding: 8px 16px;
+}
+.principal button{
+  background: #FF6F5E;
+  border-radius: 8px;
+  border-color: #ff6f5e;
+  font-weight:600;
+  font-size: 16px;
+  line-height: 120%;
+  text-align: center;
+  color: #FCF5EF;
+  padding: 8px 16px;
+}
+.box1{
+  font-size: 40px;
+  line-height: 110%;
+  color: #F7F8F3;
+  width: 1440px;
+  height: 100px;
+  background: #ff6f5e;
+}
+.box2{
+  font-size: 40px;
+  line-height:110%;
+  color:#f7f8f3;
+  width: 1440px;
+  height: 100px;
+  background: #365d91;
+}
+.beneficios{
+  display: flex;
+  flex-direction: column;
+  padding: 8px 32px;
+  background: #f7f8f3;
+  width: 360px;
+  height: 600px;
+  border: 1px solid #365D91;
+  border-radius: 10px;
+}
+.depoimentos{
+    display: flex;
+    flex-direction: column;
+    padding: 8px 32px;
+    background: #365d91;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 100px;
+}
+.depoimentos h4{
+  color: #f7f8f3;
+}
+.depoimentos h6{
+  color:#f7f8f3;
+}
+.rodape{
+  width: 1440px;
+  height: 430px;
+  background: #F7F8F3;
+  border: 2px solid #365D91;
+}
+.rodape ul{
+  font-weight: bold;
+  font-size: 23px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #365D91;
+}
+.rodape li{
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  color: #365D91;
+}
